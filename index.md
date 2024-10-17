@@ -6,6 +6,6 @@
 Javascript
 var myVar = "Hello, world!";
 -
-javascript
+
 var myVar = "Hola, mundo";
 -
