@@ -3,9 +3,7 @@
 ### hi world!
 #### My name Yenire 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-Javascript
-var myVar = "Hello, world!";
--
-
-var myVar = "Hola, mundo";
--
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
